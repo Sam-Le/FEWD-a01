@@ -14,6 +14,6 @@ Hello, my name is Hong-Sam Le.  I am a front-end web designer and developer in S
 * Hanging out with friends
 
 ### PICTURE OF A PLACE THAT I VISITED
-! [me in Chicago] (https://github.com/Sam-Le/FEWD-a01/blob/modify-readme/chicago.jpg)
+![me in Chicago](https://github.com/Sam-Le/FEWD-a01/blob/modify-readme/chicago.jpg)
 
-If you want to view one of my projects, please follow this link to [my repository] (https://github.com/Sam-Le/solutions/tree/gh-pages/module5-solution) 
+If you like to view one of my projects, please follow this link to [my repository](https://github.com/Sam-Le/solutions/tree/gh-pages/module5-solution) 
